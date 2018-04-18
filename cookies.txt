@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.fimfiction.net	TRUE	/	FALSE	1999999999	__cfduid	d6217c906f5fee7812892264d6610cc0b1523967790
+www.fimfiction.net	TRUE	/	FALSE	1999999999	d_browse_default	deleted
+
